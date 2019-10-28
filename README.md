@@ -8,4 +8,5 @@
   2. Selecting the first centroid randomly and for every next centroid the point from the dataset that has the 
      maximum average distance from the previously selected centroids is chosen in way that the selected centroids
      don't repeat.
+     
   The algorithm is tested on the data set of 2-D points "AllSamples.mat" present in the resources folder. 
